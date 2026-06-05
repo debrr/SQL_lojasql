@@ -1,4 +1,4 @@
-# Dominando Consultas SQL: Projeto LojaSQL
+# SQL: Projeto LojaSQL
 
 ## Sobre o Projeto
 
